@@ -1,0 +1,8 @@
+*.jpg
+*.jpeg
+*.png
+*.txt
+*.npy
+*.git-id
+*.gz
+*.bin
